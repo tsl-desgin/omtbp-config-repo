@@ -1,5 +1,5 @@
 global:
-  message: Welcome to Movie Service!
+  message: Welcome to Movie Service - UAT!
 server:
  port: 8089
 spring:
