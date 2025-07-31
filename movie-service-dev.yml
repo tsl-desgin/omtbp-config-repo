@@ -1,5 +1,5 @@
 global:
-  message: Welcome to Show Service!
+  message: Welcome to Movie Service - DEV!
 server:
  port: 8088
 spring:
